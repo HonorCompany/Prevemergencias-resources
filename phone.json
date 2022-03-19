@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Policía",
+      "number": "123",
+      "color": "#000000",
+      "icon": "police.jpg"
+   },
+   {
+      "name": "Bomberos",
+      "number": "123",
+      "color": "#000000",
+      "icon": "firemen.jpg"
+   },
+   {
+      "name": "Alcaldía Tausa",
+      "number": "123",
+      "color": "#000000",
+      "icon": "townhall.jpg"
+   }
+]

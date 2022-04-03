@@ -1,29 +1,19 @@
 [
    {
-      "name": "Inundaciones",
-      "color": "#00FF00",
+      "name": "Incendios de cobertura vegetal",
+      "color": "#FF4444",
       "files": [
-         { "id": "", "name": "", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
       ]
    },
    {
-      "name": "Derrumbes",
-      "color": "#000000",
+      "name": "Remoción de masa",
+      "color": "#CFEF89",
       "files": [
-         { "id": "", "name": "", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
-      ]
-   },
-   {
-      "name": "Incendios",
-      "color": "#000000",
-      "files": [
-         { "id": "", "name": "", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
@@ -31,19 +21,29 @@
    },
    {
       "name": "Materiales Peligrosos",
-      "color": "#000000",
+      "color": "#AA66CC",
       "files": [
-         { "id": "", "name": "", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
       ]
    },
    {
-      "name": "Lesiones",
-      "color": "#000000",
+      "name": "Plan familiar de emergencias",
+      "color": "#F7C779",
       "files": [
-         { "id": "", "name": "", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
+      ]
+   },
+   {
+      "name": "Prevencion en el hogar",
+      "color": "#33B5E5",
+      "files": [
+         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }

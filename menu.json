@@ -11,7 +11,7 @@
    },
    {
       "name": "Remoción de masa",
-      "color": "#CFEF89",
+      "color": "#A2BC6B",
       "files": [
          { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
@@ -31,7 +31,7 @@
    },
    {
       "name": "Plan familiar de emergencias",
-      "color": "#F7C779",
+      "color": "#C39D70",
       "files": [
          { "id": "Incendios", "name": "Incendios", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },

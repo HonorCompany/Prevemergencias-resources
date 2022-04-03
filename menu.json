@@ -1,52 +1,52 @@
 [
    {
       "name": "Inundaciones",
-      "color": "#000000",
+      "color": "#00FF00",
       "files": [
-         { "id": "", "name": "", "type": "pdfs" },
-         { "id": "", "name": "", "type": "images" },
-         { "id": "", "name": "", "type": "references" },
-         { "id": "", "name": "", "type": "videos" }
+         { "id": "", "name": "", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
       ]
    },
    {
       "name": "Derrumbes",
       "color": "#000000",
       "files": [
-         { "id": "", "name": "", "type": "pdfs" },
-         { "id": "", "name": "", "type": "images" },
-         { "id": "", "name": "", "type": "references" },
-         { "id": "", "name": "", "type": "videos" }
+         { "id": "", "name": "", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
       ]
    },
    {
       "name": "Incendios",
       "color": "#000000",
       "files": [
-         { "id": "", "name": "", "type": "pdfs" },
-         { "id": "", "name": "", "type": "images" },
-         { "id": "", "name": "", "type": "references" },
-         { "id": "", "name": "", "type": "videos" }
+         { "id": "", "name": "", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
       ]
    },
    {
       "name": "Materiales Peligrosos",
       "color": "#000000",
       "files": [
-         { "id": "", "name": "", "type": "pdfs" },
-         { "id": "", "name": "", "type": "images" },
-         { "id": "", "name": "", "type": "references" },
-         { "id": "", "name": "", "type": "videos" }
+         { "id": "", "name": "", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
       ]
    },
    {
       "name": "Lesiones",
       "color": "#000000",
       "files": [
-         { "id": "", "name": "", "type": "pdfs" },
-         { "id": "", "name": "", "type": "images" },
-         { "id": "", "name": "", "type": "references" },
-         { "id": "", "name": "", "type": "videos" }
+         { "id": "", "name": "", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
       ]
    }
 ]

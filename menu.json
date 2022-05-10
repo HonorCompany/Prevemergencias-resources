@@ -4,6 +4,7 @@
       "color": "#FF4444",
       "files": [
          { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
+         { "id": "Hogar", "name": "PrevencionDelHogarFinal.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }

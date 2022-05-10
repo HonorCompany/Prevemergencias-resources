@@ -3,7 +3,7 @@
       "name": "Incendios de cobertura vegetal",
       "color": "#FF4444",
       "files": [
-         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
@@ -13,7 +13,7 @@
       "name": "Remoción de masa",
       "color": "#A2BC6B",
       "files": [
-         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
@@ -23,7 +23,7 @@
       "name": "Materiales Peligrosos",
       "color": "#AA66CC",
       "files": [
-         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
@@ -33,7 +33,7 @@
       "name": "Plan familiar de emergencias",
       "color": "#C39D70",
       "files": [
-         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
@@ -43,7 +43,7 @@
       "name": "Prevencion en el hogar",
       "color": "#33B5E5",
       "files": [
-         { "id": "Incendios", "name": "Incendios", "type": "pdf" },
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }

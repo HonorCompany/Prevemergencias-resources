@@ -52,7 +52,7 @@
    },
    {
       "name": "Sección Nueva",
-      "color": "#C39D70",
+      "color": "#FFBB33",
       "files": [
          { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },

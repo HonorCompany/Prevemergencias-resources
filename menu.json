@@ -49,5 +49,15 @@
          { "id": "", "name": "", "type": "reference" },
          { "id": "", "name": "", "type": "video" }
       ]
+   },
+   {
+      "name": "Sección Nueva",
+      "color": "#C39D70",
+      "files": [
+         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
+         { "id": "", "name": "", "type": "image" },
+         { "id": "", "name": "", "type": "reference" },
+         { "id": "", "name": "", "type": "video" }
+      ]
    }
 ]

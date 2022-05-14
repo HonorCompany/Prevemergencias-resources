@@ -17,7 +17,7 @@
          { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
          { "id": "", "name": "", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
+         { "id": "Video", "name": "ejemplo.mp4", "type": "video" }
       ]
    },
    {

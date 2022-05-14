@@ -15,7 +15,7 @@
       "color": "#A2BC6B",
       "files": [
          { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
+         { "id": "Imagen", "name": "prueba.jpg", "type": "image" },
          { "id": "", "name": "", "type": "reference" },
          { "id": "Video", "name": "ejemplo.mp4", "type": "video" }
       ]

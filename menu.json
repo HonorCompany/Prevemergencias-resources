@@ -1,63 +1,44 @@
 [
    {
-      "name": "Incendios de cobertura vegetal",
+      "name": "Incendios de Cobertura Vegetal",
       "color": "#FF4444",
       "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "Hogar", "name": "PrevencionDelHogarFinal.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
+         { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" }
       ]
    },
    {
-      "name": "Remoción de masa",
+      "name": "Tipos de Extintores",
+      "color": "#FF4444",
+      "files": [
+         { "id": "Extintores", "name": "2TipoDeExtintoresFinal.pdf", "type": "pdf" }
+      ]
+   },
+   {
+      "name": "Remoción en Masa",
       "color": "#A2BC6B",
       "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "Imagen", "name": "prueba.jpg", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "Video", "name": "ejemplo.mp4", "type": "video" }
+         { "id": "Remocion", "name": "3RemocionEnMasaFinal.pdf", "type": "pdf" }
       ]
    },
    {
       "name": "Materiales Peligrosos",
       "color": "#AA66CC",
       "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
+         { "id": "Materiales", "name": "4MaterialesPeligrososFinal.pdf", "type": "pdf" }
       ]
    },
    {
-      "name": "Plan familiar de emergencias",
+      "name": "Plan Familiar de Emergencias",
       "color": "#C39D70",
       "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
+         { "id": "Emergencias", "name": "5PlanFamiliardeEmergenciasFinal.pdf", "type": "pdf" }
       ]
    },
    {
-      "name": "Prevencion en el hogar",
+      "name": "Prevencion del Hogar",
       "color": "#33B5E5",
       "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
-      ]
-   },
-   {
-      "name": "Sección Nueva",
-      "color": "#FFBB33",
-      "files": [
-         { "id": "Incendios", "name": "Incendios.pdf", "type": "pdf" },
-         { "id": "", "name": "", "type": "image" },
-         { "id": "", "name": "", "type": "reference" },
-         { "id": "", "name": "", "type": "video" }
+         { "id": "Hogar", "name": "6PrevencionDelHogar.pdf", "type": "pdf" }
       ]
    }
 ]

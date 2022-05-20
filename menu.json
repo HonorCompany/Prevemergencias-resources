@@ -1,9 +1,10 @@
 [
    {
-      "name": "Incendios de Cobertura Vegetal",
+      "name": "Incendios",
       "color": "#FF4444",
       "files": [
-         { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" }
+         { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" },
+         { "id": "Extintores", "name": "2TiposDeExtintoresFinal.pdf", "type": "pdf" }
       ]
    },
    {

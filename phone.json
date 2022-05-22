@@ -1,20 +1,20 @@
 [
    {
-      "name": "Policía",
-      "number": "123",
-      "color": "#000000",
-      "icon": "police.jpg"
+      "name": "Policía Nacional de Colombia",
+      "number": "(601) 858 3009",
+      "color": "#ffffff",
+      "icon": "policianacional.png"
    },
    {
-      "name": "Bomberos",
-      "number": "123",
-      "color": "#000000",
-      "icon": "firemen.jpg"
+      "name": "Bomberos Colombia - Cogua",
+      "number": "313 211 6609",
+      "color": "#ffffff",
+      "icon": "bomberos.png"
    },
    {
-      "name": "Alcaldía Tausa",
-      "number": "123",
-      "color": "#000000",
-      "icon": "townhall.jpg"
+      "name": "Alcaldía Municipal de Tausa",
+      "number": "(601) 858 3015",
+      "color": "#ffffff",
+      "icon": "Alcaldiamunicipal.png"
    }
 ]

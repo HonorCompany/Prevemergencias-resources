@@ -1,23 +1,24 @@
 [
    {
-      "name": "Incendios de Cobertura Vegetal",
+      "name": "Incendios",
       "color": "#FF4444",
       "files": [
-         { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" }
+         { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" },
+         { "id": "Extintores", "name": "2TiposDeExtintoresFinal.pdf", "type": "pdf" }
       ]
    },
    {
       "name": "Tipos de Extintores",
       "color": "#FF4444",
       "files": [
-         { "id": "Extintores", "name": "2TipoDeExtintoresFinal.pdf", "type": "pdf" }
+         { "id": "Extintores", "name": "2TiposDeExtintoresFinal.pdf", "type": "pdf" }
       ]
    },
    {
       "name": "Remoción en Masa",
       "color": "#A2BC6B",
       "files": [
-         { "id": "Remocion", "name": "3RemocionEnMasaFinal.pdf", "type": "pdf" }
+         { "id": "Remocion", "name": "3RemociónEnMasaFinal.pdf", "type": "pdf" }
       ]
    },
    {
@@ -38,7 +39,7 @@
       "name": "Prevencion del Hogar",
       "color": "#33B5E5",
       "files": [
-         { "id": "Hogar", "name": "6PrevencionDelHogar.pdf", "type": "pdf" }
+         { "id": "Hogar", "name": "6PrevencionDelHogarFinal.pdf", "type": "pdf" }
       ]
    }
 ]

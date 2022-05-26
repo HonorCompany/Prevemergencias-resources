@@ -2,6 +2,7 @@
    {
       "name": "Incendios",
       "color": "#FF4444",
+      "icon": "1incendios.png",
       "files": [
          { "id": "Incendios", "name": "1IncendiosFinal.pdf", "type": "pdf" }
       ]
@@ -9,6 +10,7 @@
    {
       "name": "Tipos de Extintores",
       "color": "#FF4444",
+      "icon": "2TiposDeExtintores.png",
       "files": [
          { "id": "Extintores", "name": "2TiposDeExtintoresFinal.pdf", "type": "pdf" }
       ]
@@ -16,6 +18,7 @@
    {
       "name": "Remoción en Masa",
       "color": "#A2BC6B",
+      "icon": "3RemociónEnMasa.png",
       "files": [
          { "id": "Remocion", "name": "3RemociónEnMasaFinal.pdf", "type": "pdf" }
       ]
@@ -23,6 +26,7 @@
    {
       "name": "Materiales Peligrosos",
       "color": "#AA66CC",
+      "icon": "4MaterialesPeligrosos.png",
       "files": [
          { "id": "Materiales", "name": "4MaterialesPeligrososFinal.pdf", "type": "pdf" }
       ]
@@ -30,6 +34,7 @@
    {
       "name": "Plan Familiar de Emergencias",
       "color": "#C39D70",
+      "icon": "5PlanFamiliardeEmergencias.png",
       "files": [
          { "id": "Emergencias", "name": "5PlanFamiliardeEmergenciasFinal.pdf", "type": "pdf" }
       ]
@@ -37,6 +42,7 @@
    {
       "name": "Prevencion del Hogar",
       "color": "#33B5E5",
+      "icon": "6PrevencionDelHogar.png",
       "files": [
          { "id": "Hogar", "name": "6PrevencionDelHogarFinal.pdf", "type": "pdf" }
       ]

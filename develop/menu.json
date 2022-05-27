@@ -26,7 +26,7 @@
    {
       "name": "Materiales Peligrosos",
       "color": "#35BAE9",
-      "icon": "4MaterialesPeligrosos.png",
+      "icon": "peligo.png",
       "files": [
          { "id": "Materiales", "name": "4MaterialesPeligrososFinal.pdf", "type": "pdf" }
       ]

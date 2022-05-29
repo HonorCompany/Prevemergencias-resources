@@ -2,19 +2,25 @@
    {
       "name": "Policía Nacional de Colombia de Tausa",
       "number": "313 321 8034",
-      "color": "#ffffff",
+      "color": "#CCCCCC",
       "icon": "policianacional.png"
    },
    {
       "name": "Bomberos Colombia Municipio de Cogua",
       "number": "323 234 2111",
-      "color": "#ffffff",
+      "color": "#CCCCCC",
       "icon": "bomberos.png"
    },
    {
       "name": "E.S.E Centro de Salud de Tausa",
       "number": "320 848 7231",
-      "color": "#ffffff",
+      "color": "#CCCCCC",
       "icon": "hospital.png"
+   },
+   {
+      "name": "Alcaldía Municipal de Tausa Gestión del Riesgo de Desastres",
+      "number": "311 564 7695",
+      "color": "#CCCCCC",
+      "icon": "Alcaldiamunicipal.png"
    }
 ]
